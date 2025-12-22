@@ -2,3 +2,8 @@
 .env
 dataset_cache
 cleaned_data
+engineered_features
+cleaned_data2
+__pycache__
+models
+outputs
